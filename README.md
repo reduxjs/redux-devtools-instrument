@@ -1,6 +1,8 @@
 Redux DevTools Instrumentation
 ==============================
 
+**This package was merged into the [`redux-devtools`](https://github.com/reduxjs/redux-devtools) monorepo. Please refer to that repository for the latest updates, issues and pull requests.**
+
 Redux enhancer used along with [Redux DevTools](https://github.com/gaearon/redux-devtools) or [Remote Redux DevTools](https://github.com/zalmoxisus/remote-redux-devtools).
 
 ### Installation
